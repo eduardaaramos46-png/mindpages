@@ -15,7 +15,7 @@ export const books: Book[] = [
     description: "Kahneman reveals the two systems that drive the way we think—and how to catch our own biases before they decide for us.",
     rating: 5,
     image: "/images/book-1.jpg",
-    affiliateLink: "https://www.amazon.com/dp/0374533555/?tag=https://amzn.to/3NACWcZ" // UPDATE THIS
+    affiliateLink: "https://amzn.to/3NACWcZ" // UPDATE THIS
   },
   {
     id: 2,
